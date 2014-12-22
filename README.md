@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-HISTORIA DE DONNE FAMOSE.Or The Romaine Iubile which happened in the yeare 855.Disputed lately, that
+
 #####Body#####
 
 1. Historia de Donne Famose. Or the Romane Iubile, which hapned in the yeere. 855.
@@ -74,54 +74,48 @@ There are 153 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|10||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|2||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|10||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|2||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|1||
-|2.|__closer__|2||
-|3.|__desc__|153||
-|4.|__div__|2| @__type__ (2) : title_page (1), text (1)|
-|5.|__figure__|1||
-|6.|__front__|1||
-|7.|__g__|372| @__ref__ (372) : char:EOLhyphen (327), char:cmbAbbrStroke (19), char:punc (26)|
-|8.|__gap__|153| @__reason__ (153) : foreign (20), illegible (133)  •  @__resp__ (133) : #APEX (133)  •  @__extent__ (133) : 2 letters (20), 1 letter (106), 1 span (3), 3 letters (4)|
-|9.|__head__|2||
-|10.|__hi__|484| @__rend__ (6) : sup (6)|
-|11.|__l__|66||
-|12.|__lg__|8||
-|13.|__note__|33| @__place__ (33) : margin (33)|
-|14.|__p__|81||
-|15.|__pb__|46| @__facs__ (46) : tcp:4667:1 (2), tcp:4667:2 (2), tcp:4667:3 (2), tcp:4667:4 (2), tcp:4667:5 (2), tcp:4667:6 (2), tcp:4667:7 (2), tcp:4667:8 (2), tcp:4667:9 (2), tcp:4667:10 (2), tcp:4667:11 (2), tcp:4667:12 (2), tcp:4667:13 (2), tcp:4667:14 (2), tcp:4667:15 (2), tcp:4667:16 (2), tcp:4667:17 (2), tcp:4667:18 (2), tcp:4667:19 (2), tcp:4667:20 (2), tcp:4667:21 (2), tcp:4667:22 (2), tcp:4667:23 (2)  •  @__rendition__ (1) : simple:additions (1)|
-|16.|__q__|1||
-|17.|__seg__|1| @__rend__ (1) : decorInit (1)|
-|18.|__signed__|1||
-|19.|__trailer__|1||
+|1.|__closer__|2||
+|2.|__desc__|153||
+|3.|__div__|2| @__type__ (2) : title_page (1), text (1)|
+|4.|__figure__|1||
+|5.|__g__|372| @__ref__ (372) : char:EOLhyphen (327), char:cmbAbbrStroke (19), char:punc (26)|
+|6.|__gap__|153| @__reason__ (153) : foreign (20), illegible (133)  •  @__resp__ (133) : #APEX (133)  •  @__extent__ (133) : 2 letters (20), 1 letter (106), 1 span (3), 3 letters (4)|
+|7.|__head__|2||
+|8.|__hi__|484| @__rend__ (6) : sup (6)|
+|9.|__l__|66||
+|10.|__lg__|8||
+|11.|__note__|33| @__place__ (33) : margin (33)|
+|12.|__p__|81||
+|13.|__pb__|46| @__facs__ (46) : tcp:4667:1 (2), tcp:4667:2 (2), tcp:4667:3 (2), tcp:4667:4 (2), tcp:4667:5 (2), tcp:4667:6 (2), tcp:4667:7 (2), tcp:4667:8 (2), tcp:4667:9 (2), tcp:4667:10 (2), tcp:4667:11 (2), tcp:4667:12 (2), tcp:4667:13 (2), tcp:4667:14 (2), tcp:4667:15 (2), tcp:4667:16 (2), tcp:4667:17 (2), tcp:4667:18 (2), tcp:4667:19 (2), tcp:4667:20 (2), tcp:4667:21 (2), tcp:4667:22 (2), tcp:4667:23 (2)  •  @__rendition__ (1) : simple:additions (1)|
+|14.|__q__|1||
+|15.|__seg__|1| @__rend__ (1) : decorInit (1)|
+|16.|__signed__|1||
+|17.|__trailer__|1||
